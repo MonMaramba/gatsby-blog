@@ -62,6 +62,7 @@ dfn {
 }
 h1 {
   font-size: 2em;
+  text-shadow: 0 0 1px #ff0000, 0 0 5px #75c6f5;
   margin: 0.67em 0;
 }
 mark {
